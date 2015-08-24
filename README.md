@@ -1,6 +1,6 @@
 # UnityHandsOn_Flappy
 Flappy Birdもどきのハンズオン
-操作：spaceキーでjump
+操作：spaceキーでjump
 
 #demo
-<img src="demo/FlappyDemo.gif” width=200>
+![](https://github.com/gunn0430/UnityHandsOn_Flappy/blob/master/demo/FlappyDemo.gif)
